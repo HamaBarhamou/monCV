@@ -42,3 +42,50 @@ Do not change the name of the template folders or files unless you know
 what you are doing and are changing the names in HTML files too.
 For webhosting, you can go with https://templateflip.com/go/hosting for easy FTP file uploads.
 
+############ Traduction en francais #######################"""
+
+Structure du répertoire
+-------------------
+css\ - Fichiers CSS des feuilles de style du modèle.
+images\ - Images utilisées dans le modèle.
+scripts\ - JavaScript utilisé dans le modèle.
+styles\ - Fichiers sources SCSS des feuilles de style CSS. Disponible uniquement dans les versions achetées.
+favicon.ico - Emplacement de la favicon fourni pour le modèle.
+index.html - Page HTML principale permettant d'ouvrir le modèle dans le navigateur.
+*.html - Pages HTML supplémentaires (le cas échéant).
+LICENSE-*.txt - Fichier de licence correspondant à la variante que vous avez téléchargée.
+
+Comment modifier le modèle
+------------------------
+
+1. Modifier le contenu du modèle
+
+Pour modifier le contenu, ouvrez les fichiers *.html correspondants et ouvrez-les
+dans un éditeur tel que VSCode ou Notepad++.
+Recherchez le contenu que vous souhaitez modifier et modifiez-le pour obtenir le texte souhaité.
+Enregistrez le fichier et rouvrez le fichier HTML dans le navigateur pour voir les modifications.
+
+2. Modifier les styles du modèle
+
+Le style principal est présent dans css\main.css que vous pouvez modifier.
+Pour ce faire, vous devez savoir comment modifier les fichiers CSS.
+Si vous avez acheté l'une des versions Premium, vous obtiendrez également les éléments suivants
+Des fichiers sources SCSS qui génèrent tous les styles du modèle.
+Vous pouvez utiliser ces fichiers SCSS pour apporter vos modifications et régénérer le CSS.
+
+3. Modification des images
+
+Vous pouvez modifier les images dans le dossier images\.
+Veillez à nommer le fichier de la même façon que le fichier original.
+Si vous souhaitez changer le nom du fichier d'image, vous devez également
+également effectuer la modification correspondante dans le fichier HTML qui fait référence à cette image.
+
+Comment utiliser le modèle
+-----------------------
+Téléchargez le contenu sur votre serveur Web.
+Le fichier index.html doit se trouver dans le dossier principal (racine) de votre serveur Web.
+Ne modifiez pas le nom des dossiers ou des fichiers du modèle, à moins que vous ne sachiez ce que vous faites et que vous modifiez le nom du modèle.
+ce que vous faites et que vous modifiez également les noms des fichiers HTML.
+Pour l'hébergement, vous pouvez choisir https://templateflip.com/go/hosting pour faciliter le téléchargement de fichiers par FTP.
+
+Traduit avec www.DeepL.com/Translator (version gratuite)

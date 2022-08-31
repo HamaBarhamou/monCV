@@ -89,3 +89,5 @@ ce que vous faites et que vous modifiez également les noms des fichiers HTML.
 Pour l'hébergement, vous pouvez choisir https://templateflip.com/go/hosting pour faciliter le téléchargement de fichiers par FTP.
 
 Traduit avec www.DeepL.com/Translator (version gratuite)
+
+
